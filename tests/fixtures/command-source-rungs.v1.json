@@ -418,6 +418,7 @@
           "command.repo2nb",
           "command.repopy",
           "command.routed",
+          "command.rungs",
           "command.salesforce.sf",
           "command.shellroute",
           "command.showtime",
